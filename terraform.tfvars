@@ -11,4 +11,4 @@ ami_filter_name    = "amzn2-ami-hvm-*-x86_64-gp2"
 ami_filter_owners  = ["amazon"]
 ami_most_recent    = true
 ami_filter_key     = "name"
-subnet_filter_key  = "tag:Name" 
+subnet_filter_key  = "tag:Name"
