@@ -3,4 +3,4 @@ resource "aws_key_pair" "keypair" {
   public_key = var.ssh_key
 
   tags = local.common_tags
-} 
+}

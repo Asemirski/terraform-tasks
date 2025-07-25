@@ -15,4 +15,4 @@ resource "aws_instance" "instance" {
     Project = var.project_tag
     ID      = var.id_tag
   }
-} 
+}
